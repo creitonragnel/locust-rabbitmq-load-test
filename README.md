@@ -1,0 +1,1 @@
+# locust-rabbitmq-load-test
